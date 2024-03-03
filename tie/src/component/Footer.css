@@ -1,0 +1,38 @@
+/* Footer Container */
+.footer {
+    background-color: #f8f9fa; /* Change to your desired background color */
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+  }
+  
+  /* Social Media Icons */
+  .social-icons {
+    margin-bottom: 1rem;
+  }
+  
+  .social-icons a {
+    color: #495057; /* Change to your desired icon color */
+    margin-right: 0.5rem;
+    transition: color 0.3s ease;
+  }
+  
+  .social-icons a:hover {
+    color: #007bff; /* Change to your desired hover color */
+  }
+  
+  /* Copyright Text */  
+  .copy-text {
+    font-size: 0.9rem;
+    color: #6c757d; /* Change to your desired text color */
+  }
+  
+  .copy-text a {
+    color: #6c757d; /* Change to your desired link color */
+    transition: color 0.3s ease;
+  }
+  
+  .copy-text a:hover {
+    color: #007bff; /* Change to your desired hover color */
+  }
+  
+  

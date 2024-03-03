@@ -1,0 +1,38 @@
+.video-container {
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  height: 70vh; /* Set the height of the container to the viewport height */
+}
+
+.video-container iframe {
+  width: 50%; /* Adjust the width of the video player as needed */
+  height: auto;
+}
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.about-section {
+  margin-bottom: 20px;
+}
+
+.about-section h4,
+.scheme-section h4,
+.price-section h4 {
+  margin-bottom: 10px;
+}
+
+.about-section p,
+.scheme-section p,
+.price-section p {
+  margin: 0;
+}
+
+.divider {
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+
